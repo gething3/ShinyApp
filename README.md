@@ -1,13 +1,13 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gething3/conda_binder_2024/py37_r353)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gething3/ShinyApp/HEAD)
 
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-(https://mybinder.org/v2/gh/gething3/conda_binder_2024/py37_r353)
+(https://mybinder.org/v2/gh/gething3/ShinyApp/HEAD)
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
